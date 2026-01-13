@@ -1,61 +1,115 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  Hi 👋, I'm Harshil Chauhan
-</h1>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Harshil Chauhan</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Backend+Developer;Node.js+%7C+Express+%7C+PostgreSQL;Always+learning+new+things+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Node.js+%7C+Express.js;API+%26+Auth+Specialist;Building+Scalable+Systems&center=true&width=520&height=45">
 </p>
 
-<p align="center"><strong>Backend Developer</strong></p>
-
----
-
-<!-- Social Media Icons -->
-<h2 align="center">🌐 Connect with Me</h2>
-
 <p align="center">
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=HarshilChauhan20&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Languages and Tools I Use</h2>
+## 👨‍💻 About Me
+
+🚀 **Backend Developer** specializing in building  
+**secure, scalable, and high-performance systems**.  
+I turn ideas into production-ready applications.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages & Frameworks
+- **Backend:** Node.js, Express.js  
+- **Frontend:** HTML, CSS, Tailwind CSS  
+- **Scripting:** Python  
+
+### 🗄 Databases
+- MongoDB  
+- PostgreSQL  
+
+### 🔐 Authentication & Security
+- JWT  
+- OAuth  
+
+### ⚙ Tools & Platforms
+- Git & GitHub  
+- Firebase  
+
+---
+
+## 🎨 Tech Badges (Glassmorphism Style)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Node.js-2a2a2a?style=for-the-badge&logo=node.js&logoColor=7CFC98&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/Express.js-2a2a2a?style=for-the-badge&logo=express&logoColor=white&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/MongoDB-2a2a2a?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2a2a2a?style=for-the-badge&logo=postgresql&logoColor=4F8CC9&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/Firebase-2a2a2a?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=ffffff20" />
 </p>
 
 ---
 
-<h2 align="center">✒️ Recent Posts</h2>
-<ul align="center">
-  <li><a href="#" target="_blank">Coming soon...</a></li>
-</ul>
+## 🌐 Portfolio
+
+🚀 **My Work & Projects**  
+👉 https://your-portfolio-link.com  
+
+### Featured Projects
+- **Exam Platform Backend** – Node.js + PostgreSQL  
+- **JWT Auth System** – Secure role-based authentication  
+- **REST API Boilerplate** – Production-ready backend  
+- **Firebase OAuth Demo** – Google login system  
+
+---
+
+## 📄 Resume
+
+<p align="left">
+  <a href="https://your-resume-link.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0e75b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+*(Tip: Upload your resume to Google Drive or GitHub repo and paste the public link above.)*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshilChauhan20&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilChauhan20&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshilChauhan20&theme=darkhub&row=1&column=6"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/HarshilChauhan20  
+- LinkedIn: https://linkedin.com/in/your-linkedin  
+- Email: yourmail@gmail.com  
+
+---
+
+## ✨ Motto
+
+> *"Build systems that scale. Write code that lasts."*
+
+---
+
+<!-- ===================== WAVE FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2b5876&height=120&section=footer"/>

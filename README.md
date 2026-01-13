@@ -11,37 +11,73 @@
 
 ---
 
-## 🧊 Animated Glowing Glass Badges
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0b0f14?style=for-the-badge&logo=node.js&logoColor=7CFC98&labelColor=00e5ff" />
-  <img src="https://img.shields.io/badge/Express.js-0b0f14?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=ff00ff" />
-  <img src="https://img.shields.io/badge/MongoDB-0b0f14?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=00ff9c" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0b0f14?style=for-the-badge&logo=postgresql&logoColor=4F8CC9&labelColor=6c63ff" />
-  <img src="https://img.shields.io/badge/Firebase-0b0f14?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=ff9100" />
-</p>
+###
 
-> Tip: These look **glowing** on dark themes because of high-contrast neon `labelColor`.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HarshilChauhan20&theme=dracula&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=HarshilChauhan20&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## 🧩 Custom SVG Glass Badges (with your name)
-
-Use the **SVG template** below (Step 2) → upload each file to a repo  
-Then use them like this:
+## 🧊 Glassmorphism Tech Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshilChauhan20/assets/main/badges/node-glass.svg" />
-  <img src="https://raw.githubusercontent.com/HarshilChauhan20/assets/main/badges/express-glass.svg" />
-  <img src="https://raw.githubusercontent.com/HarshilChauhan20/assets/main/badges/mongo-glass.svg" />
-  <img src="https://raw.githubusercontent.com/HarshilChauhan20/assets/main/badges/postgres-glass.svg" />
-  <img src="https://raw.githubusercontent.com/HarshilChauhan20/assets/main/badges/firebase-glass.svg" />
+  <img src="https://img.shields.io/badge/Node.js-2a2a2a?style=for-the-badge&logo=node.js&logoColor=7CFC98&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/Express.js-2a2a2a?style=for-the-badge&logo=express&logoColor=white&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/MongoDB-2a2a2a?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2a2a2a?style=for-the-badge&logo=postgresql&logoColor=4F8CC9&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/Firebase-2a2a2a?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=ffffff20" />
 </p>
 
 ---
 
 ## 🌐 Portfolio
-👉 https://your-portfolio-link.com
+👉 https://your-portfolio-link.com  
 
 ## 📄 Resume
 <p>
@@ -52,31 +88,18 @@ Then use them like this:
 
 ---
 
-## 🎬 Media (Images + Videos)
-
-### 📸 Screenshots
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshilChauhan20/assets/main/images/project-1.png" width="48%"/>
-  <img src="https://raw.githubusercontent.com/HarshilChauhan20/assets/main/images/project-2.png" width="48%"/>
-</p>
-
-### ▶ Demo Video
-> GitHub doesn’t auto-play videos in README. Use a **thumbnail link**:
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="70%"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics (Neon Theme)
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshilChauhan20&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilChauhan20&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## ✨ Motto
+> *"Build systems that scale. Write code that lasts."*
 
 ---
 

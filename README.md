@@ -40,13 +40,15 @@ I turn ideas into production-ready applications.
 
 ---
 
-## 🎨 Tech Badges
+## 🎨 Tech Badges (Glassmorphism Style)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-2a2a2a?style=for-the-badge&logo=node.js&logoColor=7CFC98&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/Express.js-2a2a2a?style=for-the-badge&logo=express&logoColor=white&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/MongoDB-2a2a2a?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2a2a2a?style=for-the-badge&logo=postgresql&logoColor=4F8CC9&labelColor=ffffff20" />
+  <img src="https://img.shields.io/badge/Firebase-2a2a2a?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=ffffff20" />
+</p>
 
 ---
 

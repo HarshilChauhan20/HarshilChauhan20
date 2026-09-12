@@ -182,7 +182,7 @@ to solve meaningful real-world problems.
 
 ## 📊 GitHub Statistics
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+> Replace `HarshilChauhan20` with your actual GitHub username.
 
 <div align="center">
 

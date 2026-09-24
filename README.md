@@ -154,29 +154,6 @@ Real-World Data Science Projects
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarshilChauhan20&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilChauhan20&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshilChauhan20&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
-
-</div>
-
-
----
-
 ## 🌱 My Goal
 
 > **Learn → Build → Analyze → Improve → Repeat**

@@ -170,9 +170,10 @@ Real-World Data Science Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilChauhan20&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshilChauhan20&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 
 </div>
+
 
 ---
 
